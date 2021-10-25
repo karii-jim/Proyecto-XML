@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilo.css"?>
+<postres>
+    <calientes>
+      <tartas>
+        <tipo>Carlota</tipo>
+        <sabores>limon</sabores>
+        <precio>50</precio>
+        <tamanio>mediano</tamanio>
+
+        <tipo>pastel</tipo>
+        <sabores>chocolate</sabores>
+        <precio>250</precio>
+        <tamanio>grande</tamanio>
+        
+        <tipo>cheesecake</tipo>
+        <sabores>zarzamora</sabores>
+        <precio>40</precio>
+        <tamanio>chico</tamanio>
+        </tartas>
+    </calientes>
+  
+    <frios>
+        <flanes>
+          <sabores>cafe</sabores>
+          <precio>30</precio>
+          <tamanio>chico</tamanio>
+            <sabores>vainilla</sabores>
+          <precio>40</precio>
+          <tamanio>chico</tamanio>
+         </flanes>
+       </frios>
+    <fritos>
+      <nombre>buñuelos</nombre>
+      <tipo>  de higo</tipo>
+      <precio>45</precio>
+      <nombre>empanadillas</nombre>
+      <tipo>  lechesilla</tipo>
+      <precio>25</precio>
+        </fritos>
+    <frutas>
+      <cocteles>
+        <nombre>de mezcal</nombre>
+        <precio>50</precio>
+        <tamanio>grande</tamanio>
+        <nombre>salpicon de frutas</nombre>
+        <precio>60</precio>
+        <tamanio>grande</tamanio>
+          <nombre>macedonia de frutas</nombre>
+        <precio>50</precio>
+        <tamanio>grande</tamanio>
+        </cocteles>
+    </frutas>
+</postres>
